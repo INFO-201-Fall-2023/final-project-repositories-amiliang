@@ -15,6 +15,11 @@ Since our first dataset spans multiple years, we’d like to analyze how food ac
   
 Data shows that around 20% of American children are obese, and that childhood obesity has gotten worse over the past three decades. If we wish to combat this worrying trend, we need to understand its root causes, including food access. With a better understanding of the intersection of geography and food access, we can generate solutions tailored to each region of the country.
 
+Sources:
+https://letsmove.obamawhitehouse.archives.gov/
+
+https://www.cdc.gov/obesity/data/childhood.html
+
 Datasets:
 Where did you download the data (e.g., a web URL)?
 
